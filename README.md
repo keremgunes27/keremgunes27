@@ -1,5 +1,5 @@
 ![](keremgns.png)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'am+Frontend+Developer;I'am+Computer+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'am+Full-Stack+Web+Developer;I'am+Computer+Engineer)](https://git.io/typing-svg)
 
 # console.log("Hello");
 
