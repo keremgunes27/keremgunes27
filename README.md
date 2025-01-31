@@ -5,13 +5,13 @@
 
 
 
-### const = "whoami";
+### const whoami = "Kerem Güneş";
 
 > a young frontend developer
 
 
 
-### const = "links";
+### const social = "website links";
 
 > my website ==> [keremgunes.com.tr](https://keremgunes.com.tr) > <br>
 > my medium blog where I share articles ==> [@keremgns](https://medium.com/@keremgns) <br>
